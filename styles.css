@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.container {
+  width: 100%;
+  padding: 20px;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 1px solid #0f1bf4;
+  border-radius: 4px;
+}
+
+/* Search bar placed directly under the title */
+#search-container {
+  max-width: 800px;
+  margin: 20px auto; /* Center it */
+}
+
+.car_list {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns */
+  grid-gap: 20px; /* Space between items */
+  margin: 0 auto; /* Center the grid */
+  padding: 0 20px; /* Padding for some spacing */
+}
+
+.list {
+  border: 2px solid #007bff; /* Blue border */
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #f8f9fa; /* Light gray background */
+  transition: transform 0.3s ease;
+}
+
+.list:hover {
+  transform: scale(1.05); /* Add hover effect */
+}
+
+.car img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  border-bottom: 2px solid #007bff; /* Bottom border for the image */
+  padding-bottom: 10px;
+}
+
+.list p {
+  margin: 10px 0;
+  font-size: 14px;
+}
+
+#product-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.list p {
+  font-weight: bold;
+}
+
+.list p:nth-child(4) {
+  color: #28a745; /* Price text in green */
+}

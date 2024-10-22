@@ -1,0 +1,194 @@
+[
+  {
+    "make": "Ford",
+    "model": "Fusion",
+    "year": 2020,
+    "color": "Red",
+    "price": 23000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJVaZuKasvTfDG31UAXS5DaIvF0JcYzzpmg&usqp=CAU"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "color": "Black",
+    "price": 27000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReU-0ckMp7agFh9zskKOpN0VuLgX-IgcTZZQ&usqp=CAU"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2022,
+    "color": "White",
+    "price": 26000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTezB9gqHfGjc3vF2KJ0f2xKjgKbXht47CWTQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2023,
+    "color": "Blue",
+    "price": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI8Ws4dLOpozYvUOSEVrLI2IHlwuLvjtzkRQ&usqp=CAU"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2021,
+    "color": "Gray",
+    "price": 24000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzCV-rKtUOSxt5CuynMELFBV0oooIun3PMYQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Kia",
+    "model": "Optima",
+    "year": 2020,
+    "color": "Black",
+    "price": 25000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdG18x3FhbHcm5fIdqMDDkCyMhR1Cm8_DYw&usqp=CAU.jpg"
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2022,
+    "color": "Silver",
+    "price": 26000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOIrb6YWPshKXA8qkKTGr0c3x5ThT022krjD4mu6UpjVD7fsv5SKVou_ZtHeTY1sur3s&usqp=CAU.jpg"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2023,
+    "color": "Blue",
+    "price": 27000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpZ43Bqwwx1Fmjcf_viW9lFi0_mBqv69XB-A&usqp=CAU.jpg"
+  },
+  {
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2022,
+    "color": "Black",
+    "price": 35000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjaH1xHxenO5lZjL6y63OwUYaOkoOb6J0rNg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "color": "White",
+    "price": 40000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-q95e3SBxCBMMbyoSR3S6GhD_srsP_W1UQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Audi",
+    "model": "A4",
+    "year": 2023,
+    "color": "Gray",
+    "price": 38000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIs3cVscsRyESTMSeSQTAwquR36zCQ-Oh2ig&usqp=CAU.jpg"
+  },
+  {
+    "make": "Lexus",
+    "model": "IS",
+    "year": 2020,
+    "color": "Red",
+    "price": 42000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOKr1lWrd5Id1Xmb3afLZ6rpPtJlgdwyfqcQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "color": "Blue",
+    "price": 50000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNRuh5AmQpmz7exXdOFSKfateMQRPRiLetg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Porsche",
+    "model": "Panamera",
+    "year": 2021,
+    "color": "Black",
+    "price": 80000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT4sBL_A1B_AiduSoQwOitS0vU6nI_ahWWQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2020,
+    "color": "Silver",
+    "price": 28000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFD0ZyLjWgNyHlRDyu8RI0qt8133FaLB1cg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Jeep",
+    "model": "Cherokee",
+    "year": 2023,
+    "color": "White",
+    "price": 32000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WP_FTZ0uTlEdSJUyDMFSmYRMBSK2IAXKtg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Land Rover",
+    "model": "Range Rover Evoque",
+    "year": 2022,
+    "color": "White",
+    "price": 60000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEaRFCZmaMMf-4-kbZ-kNTe5wumbthd5Cpqw&usqp=CAU.jpg"
+  },
+  {
+    "make": "Volvo",
+    "model": "S60",
+    "year": 2021,
+    "color": "Black",
+    "price": 45000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1FzMOvl7TntExmPP3b4lw2JDBZLvJCEKhw&usqp=CAU.jpg"
+  },
+  {
+    "make": "Infiniti",
+    "model": "Q50",
+    "year": 2023,
+    "color": "Gray",
+    "price": 48000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniOvtrSro1UGKBk2t3ladtiYt8YSOdHNmcQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Cadillac",
+    "model": "ATS",
+    "year": 2020,
+    "color": "Red",
+    "price": 55000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx9IQRVB4qRwYJaas7I62si7NuzSL96h4qg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Lincoln",
+    "model": "MKZ",
+    "year": 2022,
+    "color": "Blue",
+    "price": 50000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9lRNmqkTDGrKcAlnDBzRZZmfPDqopmv9wug&usqp=CAU.jpg"
+  },
+  {
+    "make": "Buick",
+    "model": "Regal",
+    "year": 2021,
+    "color": "Black",
+    "price": 34000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3amPTSQ8R3O4E9mb10kM8h9ZA9IprggcFTg&usqp=CAU.jpg"
+  },
+  {
+    "make": "Jaguar",
+    "model": "XE",
+    "year": 2020,
+    "color": "Black",
+    "price": 58000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD3Q82OYrnq12OP3NfqiExGHywhOdsWjuMjQ&usqp=CAU.jpg"
+  },
+  {
+    "make": "Acura",
+    "model": "TLX",
+    "year": 2023,
+    "color": "Gray",
+    "price": 51000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwXcY8XS1DH6zjovX-JrDsmvaWo209knAfw&usqp=CAU.jpg"
+  }
+]

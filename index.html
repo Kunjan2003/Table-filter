@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="carApp">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - Car List</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body ng-controller="CarController">
+    <header>
+        <h1>Car List</h1>
+        <input type="text" id="searchInput" ng-model="searchTerm" placeholder="Enter Car name">
+    </header>
+    
+    <main>
+        <section class="product-list">
+            <h2>Product List</h2>
+            <ul id="product-list" class="car_list">
+                <li ng-repeat="car in cars | filter:searchTerm" class="list">
+                    <img ng-src="{{car.image}}" alt="{{car.make}} {{car.model}}">
+                    <p>Make: {{car.make}}</p>
+                    <p>Model: {{car.model}}</p>
+                    <p>Color: {{car.color}}</p>
+                    <p>Price: ${{car.price}}</p>
+                    <p>Year: {{car.year}}</p>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="angular.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
